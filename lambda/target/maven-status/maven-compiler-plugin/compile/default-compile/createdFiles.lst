@@ -1,0 +1,6 @@
+com/example/lambda/LambdaApplication.class
+com/example/lambda/HelloController.class
+com/example/lambda/MyHandler.class
+com/example/lambda/model/Employee.class
+com/example/lambda/repository/EmployeeRepository.class
+com/example/lambda/MyHandler$InputObject.class
